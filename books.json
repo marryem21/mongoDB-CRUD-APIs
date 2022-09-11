@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "631c77695ba2a7c5623a5b01"
+  },
+  "title": "The way of kings",
+  "author": "Brandon Sanderson",
+  "rating": 9,
+  "pages": 400,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "yoshi",
+      "body": "Great Book!!"
+    },
+    {
+      "name": "mario",
+      "body": "so so"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "631c7b095ba2a7c5623a5b02"
+  },
+  "title": "The color of magic",
+  "author": "Terry jcksn",
+  "pages": 300,
+  "rating": 7,
+  "genre": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "samir",
+      "body": "very nice"
+    },
+    {
+      "name": "hamadi",
+      "body": "loved itt"
+    },
+    {
+      "name": "abdejlil",
+      "body": "mala kteb bababab!!"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "631c7b095ba2a7c5623a5b03"
+  },
+  "title": "The light fantastic",
+  "author": "Terry Pratchtt",
+  "pages": 250,
+  "rating": 6,
+  "genre": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "luigi",
+      "body": "pretty good"
+    },
+    {
+      "name": "bowser",
+      "body": "loved itt"
+    },
+    {
+      "name": "abdejlil",
+      "body": "mala kteb bababab!!"
+    }
+  ]
+}]

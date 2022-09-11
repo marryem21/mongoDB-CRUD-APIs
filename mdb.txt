@@ -1,0 +1,10 @@
+ 
+db.books.insertMany(
+    title: 'The color of magic',
+    author: 'Terry jcksn',
+    pages: 300,
+    rating: 7,
+    genre: [ 'fantasy', 'magic' ]
+	reviews:[{name:"samir",body:"very nice"},{name:"hamadi"},{name:"abdejlil",body:"mala kteb bababab!!"}]
+
+)
